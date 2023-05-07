@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonassundt
 
-- 👀 I’m a tiny bit interested in computer science
+- 👀 Interested in Computer Science & AI.
 
 - 📫 Reach me @ github
 
