@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Jonassundt
-
-- 👀 Interested in Computer Science & AI.
+Computer Science, AI.
 
